@@ -17,4 +17,8 @@ botonDark.addEventListener('click',()=>{
     logo.style.backgroundColor='#363949'
     infoAdmin.style.color = 'white';
     //sidebar.style.backgroundColor='#363949';
+
+    //comentario
+
+
 })
